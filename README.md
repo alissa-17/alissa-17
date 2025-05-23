@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Alissa! 👋
+
+- 🔭 I’m currently working on and learning about the projects on [JavaScript30](https://javascript30.com)
+
+- 💬 Ask me about my experience using SkillCrush to get all my knowledge of coding.
+
+- 📫 How to reach me:
+  - alissa.work17@aol.com
 
 <!--
 **alissa-17/alissa-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
