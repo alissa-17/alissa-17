@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on and learning about the projects on [JavaScript30](https://javascript30.com)
 
+- As of June 10th, 2025, I am working on a freelance family tree website. 
+
 - 💬 Ask me about my experience using SkillCrush to get all my knowledge of coding.
 
 - 📫 How to reach me:
